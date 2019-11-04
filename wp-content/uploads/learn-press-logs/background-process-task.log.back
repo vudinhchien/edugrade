@@ -1,0 +1,300 @@
+----------02-13-2019 @ 04:45:29----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => a135b970ce
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-13-2019 @ 04:45:28----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => a135b970ce
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-13-2019 @ 04:45:25----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => a135b970ce
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------12-24-2018 @ 04:58:50----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => c342d0ceb9
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------12-24-2018 @ 04:58:49----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => c342d0ceb9
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------12-24-2018 @ 04:58:46----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => c342d0ceb9
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------12-18-2018 @ 09:55:57----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 5938e6e075
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------12-18-2018 @ 09:55:55----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 5938e6e075
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------12-18-2018 @ 09:55:53----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 5938e6e075
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------10-31-2018 @ 06:32:18----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4c72eda35c
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------10-31-2018 @ 06:32:17----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4c72eda35c
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------10-31-2018 @ 06:32:14----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4c72eda35c
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/5b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+

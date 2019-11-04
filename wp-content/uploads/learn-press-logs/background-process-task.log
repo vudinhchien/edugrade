@@ -1,0 +1,100 @@
+----------02-20-2019 @ 04:39:40----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => de10b8034d
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/99b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-20-2019 @ 04:39:38----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => de10b8034d
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/99b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-20-2019 @ 04:39:36----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => de10b8034d
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/99b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-19-2019 @ 04:56:16----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 7bcaab5e26
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [em_ajax] => 1
+)
+
+
+=> file      :/home/sites/99b/e/e07c263341/public_html/gramotech.com/wp/edugrade/dummy/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
