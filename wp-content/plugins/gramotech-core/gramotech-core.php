@@ -8,13 +8,6 @@ Author: GramoTech
 Author URI: http://www.gramotech.com
 License: 
 */	
-	//include widgets
-	
-	require_once ('widgets/about-info/class-widget-about-info.php');
-	require_once ('widgets/contact/class-widget-contact.php');
-	require_once ('widgets/instructors/class-widget-instructors.php');
-	require_once ('widgets/recent-posts/class-widget-recent-posts.php');
-	require_once ('widgets/events/class-widget-events.php');
 	
 	/* Processes like/unlike */
 	add_action( 'wp_ajax_nopriv_gramotech_process_simple_like', 'gramotech_process_simple_like' );
@@ -642,9 +635,9 @@ License:
 									</div>
 								</div>
 								<ul class="course-meta">
-									<li class="learnpress-lessons"><i class="fas fa-book"></i> <?php echo esc_attr($lessons_count); ?> <?php echo esc_attr__('Les','edugrade'); ?></li>
-									<li class="learnpress-students"><i class="fas fa-users"></i> <?php echo esc_attr($user_count); ?> <?php echo esc_attr__('Students','edugrade'); ?></li>
-									<li class="learnpress-duration"><i class="fas fa-clock"></i> <?php echo esc_attr($course_duration); ?></li>
+									<li><i class="fas fa-book"></i> <?php echo esc_attr($lessons_count); ?> <?php echo esc_attr__('Les','edugrade'); ?></li>
+									<li><i class="fas fa-users"></i> <?php echo esc_attr($user_count); ?> <?php echo esc_attr__('Students','edugrade'); ?></li>
+									<li><i class="fas fa-clock"></i> <?php echo esc_attr($course_duration); ?></li>
 								</ul>
 							</div>
 						</div>
